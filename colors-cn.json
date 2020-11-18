@@ -1,0 +1,53 @@
+[
+  { "displayName": "白色", "chinese_other": "bái sè", "hex": "white" },
+  {
+    "displayName": "黑色",
+    "chinese_other": "hēi sè",
+    "hex": "black"
+  },
+  {
+    "displayName": "红色",
+    "chinese_other": "hóng sè",
+    "hex": "red"
+  },
+  {
+    "displayName": "黄色",
+    "chinese_other": "huáng sè",
+    "hex": "yellow"
+  },
+  {
+    "displayName": "绿色",
+    "chinese_other": "lǜ sè",
+    "hex": "green"
+  },
+  {
+    "displayName": "蓝色",
+    "chinese_other": "lán sè",
+    "hex": "blue"
+  },
+  {
+    "displayName": "褐色",
+    "chinese_other": "hé sè",
+    "hex": "brown"
+  },
+  {
+    "displayName": "橙色",
+    "chinese_other": "chéng sè",
+    "hex": "orange"
+  },
+  {
+    "displayName": "灰色",
+    "chinese_other": "huī sè",
+    "hex": "grey"
+  },
+  {
+    "displayName": "粉红色",
+    "chinese_other": "fěn hóng sè",
+    "hex": "pink"
+  },
+  {
+    "displayName": "紫色",
+    "chinese_other": "zǐ sè",
+    "hex": "purple"
+  }
+]
